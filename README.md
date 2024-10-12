@@ -5,7 +5,7 @@
 - Command 기반 입력 처리
 
 ## Development Environment
-- Visual Studio 2022, Windows 11
+- Visual Studio 2022, Windows 11, C
 
 
 ## Function
